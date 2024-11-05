@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oteneafa.github.io/GYN/sitemap_index.txt
+Sitemap: https://oteneafa.github.io/IPV/sitemap_index.txt
+Sitemap: https://oteneafa.github.io/bpR/sitemap_index.txt
+Sitemap: https://oteneafa.github.io/tgu/sitemap_index.txt
